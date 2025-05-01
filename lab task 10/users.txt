@@ -1,0 +1,2 @@
+u1 Linus Torvalds Finland linus@example.com
+u2 Alan Turing UK alan@example.com

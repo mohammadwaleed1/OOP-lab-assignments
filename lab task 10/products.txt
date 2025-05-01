@@ -1,0 +1,3 @@
+p1 Keyboard Mechanical 100
+p2 Mouse Wireless 50
+p3 Monitor LED 200
